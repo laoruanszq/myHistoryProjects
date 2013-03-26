@@ -1,0 +1,42 @@
+	Server make configuration:
+	Open:
+	<Configuration>
+		<ContainerId>10008</ContainerId>
+		<Operation>open</Operation>
+		<Frequency>10</Frequency>
+	</Configuration>
+	
+	Close:
+	<Configuration>
+		<ContainerId>10008</ContainerId>
+		<Operation>close</Operation>
+	</Configuration>
+	
+	Your Call back:
+	Success:
+		<Result>success</Result>
+	failure:
+		<Result>failure</Result>
+		
+		
+	Client Send Status: (you do not need my call back)
+	<Status>
+		<ContainerId>10008</ContainerId>
+		<Temperature></Temperature>
+	<Status>
+	
+	建议格式：
+	<senserData>
+		<Status>
+			<ContainerId>10008</ContainerId>
+			<Temperature></Temperature>
+		<Status>
+		<Status>
+			<ContainerId>10008</ContainerId>
+			<Humidity></Humidity>
+		<Status>
+		<Status>
+			<ContainerId>10009</ContainerId>
+			<Temperature></Temperature>
+		<Status>
+	</senserData>

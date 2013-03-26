@@ -1,0 +1,38 @@
+﻿<sensersData>
+    <senser>
+        <id>1</id>
+        <type>2</type>  //后面会附上传感器type表
+        <data>25</data>
+    </senser>
+    <senser>
+        <id>2</id>
+        <type>1</type>
+        <data>46</data>
+    </senser>
+</sensersDate>
+
+
+传感器名称       ASO         TYPE
+湿度             H            1
+温度             T            2
+光              LIGHT         3
+流量            FLUX          4
+血压      BLOOD_PRESSURE      5
+海拔高度      ALTITUDE        6
+磁场            HOARE         7
+雨滴            RAIN          8
+
+
+<sensersData>
+	<containerid>
+    <senser>
+        <id>1</id>
+        <type>2</type>  //后面会附上传感器type表
+        <data>25</data>
+    </senser>
+    <senser>
+        <id>2</id>
+        <type>1</type>
+        <data>46</data>
+    </senser>
+</sensersDate>
