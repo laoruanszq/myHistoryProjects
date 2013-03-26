@@ -1,0 +1,40 @@
+ANDRIOD数据Array
+
+State=>0userID=>1deviceID=>nulltime=>1362320882order=>nullarea=>smubuild=>1unit=>3houseNum=>307ANDRIOD数据Array
+
+State=>1userID=>1deviceID=>1time=>1362320898order=>0area=>SMUbuild=>CSunit=>204houseNum=>3072013-03-03 14:29:07{
+			"content":
+			{
+				"action": "0",				
+				"more": null		
+			},
+			"location": 				
+			{
+				"community": "SMU",
+				"block": "CS",
+				"room": "204",
+				"object": "1"
+			},
+			"flag":
+			{
+				"success": 0,				
+				"client_address": null,
+				"process": 1			
+			}
+		}第一次返回数据:2013-03-03 14:29:07{"content": {"action": "0", "more": null}, "flag": {"process": 0, "success": 1, "client_address": "222.44.14.20-39555"}, "location": {"object": "1", "community": "SMU", "block": "CS", "room": "204"}}返回数据pdeviceID=>1result=>1deviceIDState=>0返回数据pArray
+
+ANDRIOD数据Array
+
+State=>0userID=>1deviceID=>nulltime=>1362320892order=>nullarea=>smubuild=>1unit=>3houseNum=>307ANDRIOD数据Array
+
+State=>0userID=>1deviceID=>nulltime=>1362320902order=>nullarea=>smubuild=>1unit=>3houseNum=>307ANDRIOD数据Array
+
+State=>0userID=>1deviceID=>nulltime=>1362320912order=>nullarea=>smubuild=>1unit=>3houseNum=>307ANDRIOD数据Array
+
+State=>0userID=>1deviceID=>nulltime=>1362320922order=>nullarea=>smubuild=>1unit=>3houseNum=>307ANDRIOD数据Array
+
+State=>0userID=>1deviceID=>nulltime=>1362320932order=>nullarea=>smubuild=>1unit=>3houseNum=>307ANDRIOD数据Array
+
+State=>0userID=>1deviceID=>nulltime=>1362320942order=>nullarea=>smubuild=>1unit=>3houseNum=>307ANDRIOD数据Array
+
+State=>0userID=>1deviceID=>nulltime=>1362320952order=>nullarea=>smubuild=>1unit=>3houseNum=>307
